@@ -1,15 +1,4 @@
 name: ada
 channels:
   - defaults
-dependencies:
-  - scipy
-  - matplotlib=3.7.2
-  - numpy
-  - pandas
-  - python=3.11
-  - seaborn
-  - jupyterlab
-  - bokeh
-  - nb_conda_kernels
-  - pandas-stubs==2.2.3.250308
-prefix: C:\Users\Utilisateur\anaconda3\envs\ada
+prefix: C:\Users\ayoub\anaconda3\envs\ada
